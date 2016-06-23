@@ -8,8 +8,8 @@
     "taxa": [
         {
             "source_type": "The taxon is described in this study",
-            "source": null
+            "source": null,
+            "comment": "A simple test amendment."
         },
     ],
-    "comment": "A simple test amendment."
 }
