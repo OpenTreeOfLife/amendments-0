@@ -1,0 +1,29 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-25T16:37:51.814Z", 
+"id": "additions-5000001-5000001", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"comment": "", 
+"name": "Phytophthora capsici TEST", 
+"name_derivation": "Removing extraneous characters", 
+"ott_id": 5000001, 
+"parent": "555379", 
+"rank": "subspecies", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 0
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
