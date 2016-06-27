@@ -1,0 +1,59 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-27T17:17:22.752Z", 
+"id": "additions-5000007-5000009", 
+"new_ottids_required": 3, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"comment": "", 
+"name": "Phytophthora taxon", 
+"name_derivation": "Removing extraneous characters", 
+"ott_id": 5000007, 
+"parent": "5032742", 
+"rank": "species", 
+"sources": [
+{
+"source": "http://example.comm/TAXO-THING", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": 0
+}, 
+{
+"comment": "", 
+"name": "Phytophthora taxon KLAID8a1 P10355", 
+"name_derivation": "No change to original label", 
+"ott_id": 5000008, 
+"parent": "5032742", 
+"rank": "species", 
+"sources": [
+{
+"source": "http://example.comm/TAXO-THING", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": 1
+}, 
+{
+"comment": "", 
+"name": "Phytophthora taxon KLAID8a1 P10359", 
+"name_derivation": "No change to original label", 
+"ott_id": 5000009, 
+"parent": "5032742", 
+"rank": "species", 
+"sources": [
+{
+"source": "http://example.comm/TAXO-THING", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": 2
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
