@@ -1,0 +1,44 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-27T17:29:16.841Z", 
+"id": "additions-5000016-5000017", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"comment": "", 
+"name": "Phytophthora taxon KLAID8b1", 
+"name_derivation": "No change to original label", 
+"ott_id": 5000016, 
+"parent": "5316119", 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 0
+}, 
+{
+"comment": "", 
+"name": "Phytophthora citricolalike P10679", 
+"name_derivation": "No change to original label", 
+"ott_id": 5000017, 
+"parent": "", 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 1
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
