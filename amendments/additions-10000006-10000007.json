@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-28T21:57:59.515Z", 
+"id": "additions-10000006-10000007", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora cryptogea like P3103", 
+"comment": "", 
+"name": "Phytophthora cryptogea like P3103", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora cryptogea like P3103", 
+"ott_id": 10000006, 
+"parent": 5316119, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 0
+}, 
+{
+"adjusted_label": "Phytophthora personii P11555", 
+"comment": "", 
+"name": "Phytophthora personii P11555", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora personii P11555", 
+"ott_id": 10000007, 
+"parent": 5316119, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 1
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
