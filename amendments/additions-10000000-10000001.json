@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-28T20:39:38.322Z", 
+"id": "additions-10000000-10000001", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10355", 
+"comment": "", 
+"name": "Phytophthora taxon KLAID8a1 P10355", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora taxon clade8a1 P10355", 
+"ott_id": 10000000, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 0
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8b1 P10728", 
+"comment": "", 
+"name": "Phytophthora taxon KLAID8b1 P10728", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora taxon clade8b1 P10728", 
+"ott_id": 10000001, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 1
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
