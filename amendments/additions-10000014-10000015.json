@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-28T23:57:34.933Z", 
+"id": "additions-10000014-10000015", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora salixsoil P10337", 
+"comment": "", 
+"name": "Phytophthora salixsoil FOOFOOFOO", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora salixsoil P10337", 
+"ott_id": 10000014, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "0"
+}, 
+{
+"adjusted_label": "Phytophthora porri like P10728", 
+"comment": "", 
+"name": "Phytophthora porri BARBARBAR", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora porri like P10728", 
+"ott_id": 10000015, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "1"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
