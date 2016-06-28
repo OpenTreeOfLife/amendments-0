@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-28T21:37:44.153Z", 
+"id": "additions-10000004-10000005", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora capsici like P0630", 
+"comment": "", 
+"name": "Phytophthora capsici FOO", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora capsici like P0630", 
+"ott_id": 10000004, 
+"parent": 5295701, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 0
+}, 
+{
+"adjusted_label": "Phytophthora porri like P10728", 
+"comment": "", 
+"name": "Phytophthora porri BAR", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora porri like P10728", 
+"ott_id": 10000005, 
+"parent": 5295701, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": 1
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
