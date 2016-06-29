@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-29T02:22:01.593Z", 
+"id": "additions-10000020-10000022", 
+"new_ottids_required": 3, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora capsici like P0630", 
+"comment": "", 
+"name": "Phytophthora capsici ONE", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora capsici like P0630", 
+"ott_id": 10000020, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388751"
+}, 
+{
+"adjusted_label": "Phytophthora personii P11555", 
+"comment": "", 
+"name": "Phytophthora personii TWO", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora personii P11555", 
+"ott_id": 10000021, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388788"
+}, 
+{
+"adjusted_label": "Phytophthora napoensis P8221", 
+"comment": "", 
+"name": "Phytophthora napoensis THREE", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora napoensis P8221", 
+"ott_id": 10000022, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388817"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
