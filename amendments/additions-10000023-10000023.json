@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@gmail.com", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2016-06-29T18:52:35.593Z", 
+"id": "additions-10000023-10000023", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora taxon KLAID2a1 P0318", 
+"comment": "", 
+"name": "Phytophthora taxon KLAID2a1 P0318", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora taxon clade2a1 P0318", 
+"ott_id": 10000023, 
+"parent": 3605602, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388678"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
