@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-29T00:02:03.937Z", 
+"id": "additions-10000016-10000016", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora cryptogea like P3103", 
+"comment": "", 
+"name": "Phytophthora cryptogea BAZBAZBAZ", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora cryptogea like P3103", 
+"ott_id": 10000016, 
+"parent": 5295701, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "0"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
