@@ -1,0 +1,65 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-29T02:15:15.286Z", 
+"id": "additions-10000017-10000019", 
+"new_ottids_required": 3, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora salixsoil P10337", 
+"comment": "", 
+"name": "Phytophthora salixsoil TEST1", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora salixsoil P10337", 
+"ott_id": 10000017, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388757"
+}, 
+{
+"adjusted_label": "Phytophthora cryptogea like P3103", 
+"comment": "", 
+"name": "Phytophthora cryptogea TEST2", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora cryptogea like P3103", 
+"ott_id": 10000018, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388778"
+}, 
+{
+"adjusted_label": "Phytophthora species P10811", 
+"comment": "", 
+"name": "Phytophthora species TEST3", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora species P10811", 
+"ott_id": 10000019, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388784"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
