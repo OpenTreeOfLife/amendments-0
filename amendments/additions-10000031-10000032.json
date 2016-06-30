@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-30T17:26:36.133Z", 
+"id": "additions-10000031-10000032", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora porri like P10728", 
+"comment": "", 
+"name": "Homo sapiens", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phytophthora porri like P10728", 
+"ott_id": 10000031, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388774"
+}, 
+{
+"adjusted_label": "Phytophthora thermophilum P10457", 
+"comment": "", 
+"name": "Phytophthora thermophilum FOOFOO", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora thermophilum P10457", 
+"ott_id": 10000032, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388815"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
