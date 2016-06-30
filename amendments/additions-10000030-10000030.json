@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-30T16:26:54.255Z", 
+"id": "additions-10000030-10000030", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora capsici like P0630", 
+"comment": "", 
+"name": "Phytophthora capsici like BAZBAZ", 
+"name_derivation": "Typo in original label", 
+"original_label": "Phytophthora capsici like P0630", 
+"ott_id": 10000030, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388751"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
