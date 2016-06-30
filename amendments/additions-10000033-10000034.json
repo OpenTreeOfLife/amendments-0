@@ -1,0 +1,48 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-06-30T17:32:26.878Z", 
+"id": "additions-10000033-10000034", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora lateralis P3888", 
+"comment": "", 
+"name": "Homo sapiens", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phytophthora lateralis P3888", 
+"ott_id": 10000033, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388709"
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10355", 
+"comment": "", 
+"name": "Homo habilis", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora taxon clade8a1 P10355", 
+"ott_id": 10000034, 
+"parent": 244265, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388719"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
