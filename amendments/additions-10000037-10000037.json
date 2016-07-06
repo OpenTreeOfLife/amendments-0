@@ -1,0 +1,35 @@
+{
+"curator": {
+"email": "karen.cranston@gmail.com", 
+"login": "kcranston", 
+"name": "Karen Cranston"
+}, 
+"date_created": "2016-07-06T18:03:53.101Z", 
+"id": "additions-10000037-10000037", 
+"new_ottids_required": 1, 
+"study_id": "pg_2924", 
+"taxa": [
+{
+"adjusted_label": "Artemisiospiza nevadensis", 
+"comment": "", 
+"name": "Artemisiospiza nevadensis", 
+"name_derivation": "No change to original label", 
+"original_label": "Artemisiospiza nevadensis", 
+"ott_id": 10000037, 
+"parent": 292638, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://checklist.aou.org/taxa/10501", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=1A0F1011D11EBB79&sec=taxontable&version=aou", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu432684"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
