@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-08-04T01:20:49.918Z", 
+"id": "additions-10000039-10000039", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Felis monodactus", 
+"comment": "", 
+"name": "Felis tridactus", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phytophthora taxon clade2a1 P0318", 
+"ott_id": 10000039, 
+"parent": 10000038, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388678"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
