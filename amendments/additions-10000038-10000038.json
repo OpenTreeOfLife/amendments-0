@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-08-04T01:18:19.864Z", 
+"id": "additions-10000038-10000038", 
+"new_ottids_required": 1, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Felis polydacta", 
+"comment": "This is a test, please ignore", 
+"name": "Felis polydacta", 
+"name_derivation": "No change to original label", 
+"original_label": "Phytophthora taxon clade2b1 P1200", 
+"ott_id": 10000038, 
+"parent": 563166, 
+"rank": "infraspecificname", 
+"sources": [
+{
+"source": "http://example.com/bogus/123", 
+"source_type": "Link to online taxonomy"
+}
+], 
+"tag": "otu388682"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
