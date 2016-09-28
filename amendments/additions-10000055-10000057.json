@@ -1,0 +1,125 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-09-28T18:21:13.933Z", 
+"id": "additions-10000055-10000057", 
+"new_ottids_required": 3, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10355", 
+"comment": "", 
+"name": "TEST TAXON A", 
+"name_derivation": "Typo in original label", 
+"original_label": "Phytophthora taxon clade8a1 P10355", 
+"ott_id": 10000055, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.123", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}, 
+{
+"source": "Don't change this!", 
+"source_type": "Other"
+}, 
+{
+"source": "http://example.com/this-was-already-complete", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://bogus value", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://dx.doi.org/10.987/654321", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu388719"
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10359", 
+"comment": "", 
+"name": "TEST TAXON B", 
+"name_derivation": "Typo in original label", 
+"original_label": "Phytophthora taxon clade8a1 P10359", 
+"ott_id": 10000056, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.123", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}, 
+{
+"source": "Don't change this!", 
+"source_type": "Other"
+}, 
+{
+"source": "http://example.com/this-was-already-complete", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://bogus value", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://dx.doi.org/10.987/654321", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu388727"
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P3876", 
+"comment": "", 
+"name": "TEST TAXON D", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Phytophthora taxon clade8a1 P3876", 
+"ott_id": 10000057, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.123", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}, 
+{
+"source": "Don't change this!", 
+"source_type": "Other"
+}, 
+{
+"source": "http://example.com/this-was-already-complete", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://bogus value", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://dx.doi.org/10.987/654321", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu388728"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
