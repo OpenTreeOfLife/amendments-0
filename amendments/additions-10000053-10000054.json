@@ -1,0 +1,68 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-09-28T00:31:14.761Z", 
+"id": "additions-10000053-10000054", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10355", 
+"comment": "", 
+"name": "TEST TAXON Z", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Phytophthora taxon clade8a1 P10355", 
+"ott_id": 10000053, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.123", 
+"source_type": "Link (DOI) to publication"
+}
+], 
+"tag": "otu388719"
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P3876", 
+"comment": "", 
+"name": "TEST TAXON C", 
+"name_derivation": "Typo in original label", 
+"original_label": "Phytophthora taxon clade8a1 P3876", 
+"ott_id": 10000054, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "10.1234", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "10.9876", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "http://example.com/foo", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "bogus-value", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}, 
+{
+"source": "blah yaddah", 
+"source_type": "Other"
+}
+], 
+"tag": "otu388728"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
