@@ -1,0 +1,80 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2016-10-12T16:41:11.256Z", 
+"id": "additions-10000058-10000059", 
+"new_ottids_required": 2, 
+"study_id": "pg_2606", 
+"taxa": [
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P10355", 
+"comment": "", 
+"name": "Phytophthora taxon KLAID8a1 P10355", 
+"name_derivation": "Typo in original label", 
+"original_label": "Phytophthora taxon clade8a1 P10355", 
+"ott_id": 10000058, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.123a", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://urltest.com/foo", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "10.123ab", 
+"source_type": "Other"
+}, 
+{
+"source": "example.com/foobar", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388719"
+}, 
+{
+"adjusted_label": "Phytophthora taxon KLAID8a1 P3876", 
+"comment": "", 
+"name": "Phytophthora taxon", 
+"name_derivation": "Removing extraneous characters", 
+"original_label": "Phytophthora taxon clade8a1 P3876", 
+"ott_id": 10000059, 
+"parent": 563165, 
+"rank": "species", 
+"sources": [
+{
+"source": "http://dx.doi.org/10.123a", 
+"source_type": "Link to online taxonomy"
+}, 
+{
+"source": "http://urltest.com/foo", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": "10.123ab", 
+"source_type": "Other"
+}, 
+{
+"source": "example.com/foobar", 
+"source_type": "Link (DOI) to publication"
+}, 
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu388728"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
