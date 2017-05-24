@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "jim@ibang.com", 
+"login": "jimallman", 
+"name": "Jim Allman"
+}, 
+"date_created": "2017-05-24T21:24:13.751Z", 
+"id": "additions-10000060-10000060", 
+"new_ottids_required": 1, 
+"study_id": "tt_103", 
+"taxa": [
+{
+"adjusted_label": "Myc\u00f4sph\u00e6r\u00eblla \"zoomer\" >!;", 
+"comment": "This is a test of funky Unicode in a taxon label", 
+"name": "Myc\u00f4sph\u00e6r\u00eblla \"zoomer\" >!;", 
+"name_derivation": "Other (explain in comments below)", 
+"original_label": "Mycosphaerella pneumatophorae", 
+"ott_id": 10000060, 
+"parent": 708974, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu517"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
