@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@gmail.com", 
+"login": "snacktavish", 
+"name": "Emily Jane McTavish"
+}, 
+"date_created": "2018-05-24T15:55:01.784Z", 
+"id": "additions-10000062-10000062", 
+"new_ottids_required": 1, 
+"study_id": "tt_213", 
+"taxa": [
+{
+"adjusted_label": "Hoplias sp", 
+"comment": "", 
+"name": "Hoplias opentree", 
+"name_derivation": "Taxon subsequently published under this name", 
+"original_label": "Erythrinidae Hoplias sp G01329", 
+"ott_id": 10000062, 
+"parent": 753569, 
+"rank": "species", 
+"sources": [
+{
+"source": null, 
+"source_type": "The taxon is described in this study"
+}
+], 
+"tag": "otu100"
+}
+], 
+"user_agent": "opentree-curation-webapp"
+}
