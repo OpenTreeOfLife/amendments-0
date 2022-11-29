@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2022-11-29T04:53:00.088Z",
+"id": "additions-10000064-10000064",
+"new_ottids_required": 1,
+"study_id": "tt_265",
+"taxa": [
+{
+"adjusted_label": "Heritiera aurea",
+"comment": "",
+"name": "Heritiera aurea TEST",
+"name_derivation": "Typo in original label",
+"original_label": "Heritiera aurea otu376446",
+"ott_id": 10000064,
+"parent": 526990,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu10"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
