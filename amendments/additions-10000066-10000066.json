@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2022-12-06T00:12:12.422Z",
+"id": "additions-10000066-10000066",
+"new_ottids_required": 1,
+"study_id": "tt_268",
+"taxa": [
+{
+"adjusted_label": "Ilex hippocrateoides",
+"comment": "",
+"name": "Ilex hippocrateoidesTEST",
+"name_derivation": "Typo in original label",
+"original_label": "Ilex hippocrateoides otuPS198",
+"ott_id": 10000066,
+"parent": 727571,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
