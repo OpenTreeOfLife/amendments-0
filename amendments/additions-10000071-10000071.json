@@ -1,0 +1,31 @@
+{
+"curator": {
+"email": "ejmctavish@ucmerced.edu",
+"login": "snacktavish",
+"name": "Emily Jane McTavish"
+},
+"date_created": "2023-10-03T17:49:27.543Z",
+"id": "additions-10000071-10000071",
+"new_ottids_required": 1,
+"study_id": "tt_334",
+"taxa": [
+{
+"adjusted_label": "D",
+"comment": "https://ben-redelings.org/",
+"name": "BenRI",
+"name_derivation": "Typo in original label",
+"original_label": "D",
+"ott_id": 10000071,
+"parent": 770309,
+"rank": "species",
+"sources": [
+{
+"source": null,
+"source_type": "The taxon is described in this study"
+}
+],
+"tag": "otu1"
+}
+],
+"user_agent": "opentree-curation-webapp"
+}
